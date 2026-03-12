@@ -13,6 +13,12 @@ Este repositório contém todos os materiais práticos (datasets, notebooks de l
 *   `Aula 03/`: Extração de Dados - Banco de Dados (SQL).
     *   `lab_02_sql.ipynb`: Notebook de exercícios práticos.
     *   `chinook.db`, `northwind.db`, etc.: Datasets utilizados na aula.
+*   `Aula 04/` a `Aula 08/`: Trabalhando com dados ausentes, engenharia de categorias, univariados, multivariados e introdução ao One-Hot Encoding.
+*   `Aula 09/`: Encoding Avançado e Discretização (Binning).
+    *   `lab_07_parte_02_advanced.ipynb`: Notebook prático sobre Target e Frequency Encoding.
+    *   `lab_09_binning.ipynb`: Notebook de exercícios sobre pd.cut e pd.qcut.
+    *   `Aula_09_completa_v0.pdf`: Apresentação completa consolidada da aula.
+    *   `questoes_socrative_aula09.md`: Questões de fixação (Peer Instruction).
 
 ### Instruções para a Aula 0x       
 1.  Baixe a pasta `Aula 0x` para o seu computador.
