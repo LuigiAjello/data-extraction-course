@@ -1,0 +1,4 @@
+id,nome,email
+1,Joao,joao@email.com
+2,Maria,maria@email.com,EXTRA_COLUMN
+3,Pedro,pedro@email.com
