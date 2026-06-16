@@ -8,3 +8,7 @@ __pycache__/
 venv/
 env/
 .env
+
+# CSVs gerados pelos próprios notebooks (recriados a cada execução)
+notebooks/ecommerce_messy.csv
+notebooks/shark_attacks_messy.csv
